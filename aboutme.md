@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Callear
+subtitle: a service to dealing with Uncertainty in phone call
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+통화에서 발생하는 불확실성을 제거하고, 보다 나은 대처를 돕습니다. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### history
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- 2019-08-14 알파 릴리즈
